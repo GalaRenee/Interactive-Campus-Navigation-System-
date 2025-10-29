@@ -3,11 +3,16 @@ A complete graph editor and pathfinding visualization tool featuring Breadth-Fir
 
 
 <img width="2598" height="1532" alt="Image 10-28-25 at 4 04 PM" src="https://github.com/user-attachments/assets/598258d9-6623-48c8-a871-05967c2ecc93" />
+
 <img width="2598" height="1532" alt="Image 10-28-25 at 4 05 PM" src="https://github.com/user-attachments/assets/e321d4e0-c2d5-49a1-b220-2316b38920f7" />
+
 <img width="2598" height="1532" alt="Image 10-28-25 at 4 06 PM (1)" src="https://github.com/user-attachments/assets/dce161fc-043c-48e6-943f-07ced8e52907" />
-### BFS Path 
+## BFS Path 
+
 <img width="2598" height="1532" alt="Image 10-28-25 at 4 07 PM" src="https://github.com/user-attachments/assets/86a659e9-1dd7-4490-a537-867da34e8ae5" />
-### DFS path 
+## DFS path 
+
+
 
 ## ✨ Features
 Complete Graph Editor 
