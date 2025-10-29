@@ -70,7 +70,7 @@ Real-time statistics (distance, time, path length)
 - Randomize Node Weights: Change building importance/capacity values.
 - Larger nodes = higher weight/importance
 
-# Algorithm Details 
+## Algorithm Details 
 ## Breadth-First Search (BFS)
 - Explores level by level using a queue (FIFO)
 - Guarantees shortest path by hop count
@@ -86,7 +86,7 @@ Real-time statistics (distance, time, path length)
 - Best for: MAze solving, exploring all possibilites
 Where V = vertices (buildings), E = edges (path)
 
-# 🎓Educational Value
+## 🎓Educational Value
 This project demonstrates:
 
 - Graph theory fundamentals
@@ -97,6 +97,6 @@ This project demonstrates:
 - Path reconstruction techniques
 - Accessibility considerations in routing
 
-# 📝 License
+## 📝 License
 MIT License
     
