@@ -44,7 +44,7 @@ Real-time statistics (distance, time, path length)
 - Color-coded node effects
 - Scrollable control panels
 
-# Usage Guide
+## ✨ Usage Guide:
 ## Adding Buildings 
 1. Enter a building name in the "Add Building" section
 2. Click "📍 Click to Place"
@@ -76,7 +76,7 @@ Real-time statistics (distance, time, path length)
 - Randomize Node Weights: Change building importance/capacity values.
 - Larger nodes = higher weight/importance
 
-## Algorithm Details 
+## ✨ Algorithm Details: 
 ## Breadth-First Search (BFS)
 - Explores level by level using a queue (FIFO)
 - Guarantees shortest path by hop count
